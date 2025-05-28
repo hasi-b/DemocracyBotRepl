@@ -27,27 +27,27 @@ bot = discord.Bot(intents=intents)
 
 # --- Topic Data ---
 topics_by_time = {
-    "Trend 1": [
+    "Issue 1": [
         "Horses promise to ban mint chocolate ice cream after coming to power, eagles oppose",
         "Eagles promise to ban mismatched socks in public space, horses oppose",
         "Eagles demand male horses should always wear pants on public."
     ],
-    "Trend 2": [
+    "Issue 2": [
         'Eagle leader releases a statement, “Do we need freedom? Or do we need discipline?” Horses find this statement ridiculous.',
         "Horses put a legal notice to film studios to not show violence between animals, Eagles say it is state sponsored censorship",
         "Eagles demand that horses should be charged more for bus tickets."
     ],
-    "Trend 3": [
+    "Issue 3": [
         "The Horse claims that they will build schools open to all animals; the Eagle, however, believes schools should be separated by species.",
         "Horse claims It’s unfair that the bird family holds the management of all gemstones mine.",
         "To promote strong unity among birds, Eagles proposing a new law where all birds have to support their party, or they won't be officially recognised"
     ],
-    "Trend 4": [
+    "Issue 4": [
         "Eagles promise to bring high taxes for migratory birds, Horses claim it is unjust to mess with the natural order",
         "Horses seen having a secret meeting with the neighbouring country run by lions. Eagles call this a breach of public trust.",
         "Eagles issue arrest warrants for comedians who are joking about the party, claiming it destroys nationalistic pride"
     ],
-    "Trend 5": [
+    "Issue 5": [
         "Eagles want to impose mandatory military service to high schoolers. Horses call this unnecessary and a breach of freedom of choice",
         "Horse claims that the access to healthcare shouldn’t depend on one’s income. However Eagles claims that healthcare is a personal responsibility, not a government guarantee",
         "Eagles propose a unified Wildlands where only the state imposed religion will be accepted, Horses oppose this move and plans to abolish religion to bring equal rights."
