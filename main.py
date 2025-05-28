@@ -142,7 +142,7 @@ async def post_next_topic():
     topic = random.choice(topics_by_time[label])
 
     # Create a new thread for each time slot
-    thread_name = f"{label} - {topic}"
+    thread_name = f"{label}"
 
     try:
         new_thread = await post_channel.create_thread(
