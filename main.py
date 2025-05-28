@@ -30,17 +30,17 @@ topics_by_time = {
     "Issue 1": [
         "Horses promise to ban mint chocolate ice cream after coming to power, eagles oppose",
         "Eagles promise to ban mismatched socks in public space, horses oppose",
-        "Eagles demand male horses should always wear pants on public."
+        "Eagles demand carnivore animals should wear a mask in public"
     ],
     "Issue 2": [
-        'Eagle leader releases a statement, “Do we need freedom? Or do we need discipline?” Horses find this statement ridiculous.',
-        "Horses put a legal notice to film studios to not show violence between animals, Eagles say it is state sponsored censorship",
+        "Eagles claim that female animals shouldn’t wear revealing clothes and shouldn’t leave home after 9 PM.",
+        "Horses put a legal notice to film studios to not show violence between animals, Eagles say it is state controlled censorship",
         "Eagles demand that horses should be charged more for bus tickets."
     ],
     "Issue 3": [
-        "The Horse claims that they will build schools open to all animals; the Eagle, however, believes schools should be separated by species.",
-        "Horse claims It’s unfair that the bird family holds the management of all gemstones mine.",
-        "To promote strong unity among birds, Eagles proposing a new law where all birds have to support their party, or they won't be officially recognised"
+        "Horses claim that they will build schools open to all animals; Eagles, however, believe schools should be separated by species.",
+        "Horses claim it’s unfair that the bird family has a monopoly over the Trade Federation.",
+        "To promote strong unity among birds, Eagles propose a new law where all birds have to support their party, or they won't be officially recognised."
     ],
     "Issue 4": [
         "Eagles promise to bring high taxes for migratory birds, Horses claim it is unjust to mess with the natural order",
@@ -49,10 +49,11 @@ topics_by_time = {
     ],
     "Issue 5": [
         "Eagles want to impose mandatory military service to high schoolers. Horses call this unnecessary and a breach of freedom of choice",
-        "Horse claims that the access to healthcare shouldn’t depend on one’s income. However Eagles claims that healthcare is a personal responsibility, not a government guarantee",
+        "Horse claims that the access to healthcare shouldn’t depend on one’s income. Eagles claims that healthcare is a personal responsibility, not a government guarantee",
         "Eagles propose a unified Wildlands where only the state imposed religion will be accepted, Horses oppose this move and plans to abolish religion to bring equal rights."
     ]
 }
+
 
 
 # --- Globals ---
